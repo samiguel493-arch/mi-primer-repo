@@ -1,2 +1,1 @@
-Primer avance de practica
-Segundo avance de practica
+Notas de practica de Git y GitHub
